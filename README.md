@@ -4,19 +4,20 @@
 Try 'myNotes' now
 https://mynotes-roushan.netlify.app/
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Deployment
 youtube video link - https://youtu.be/AslMb_MQzDo?feature=shared
 
 
-# Backend
+### Backend
 -myNotesBackend repository added to github
 -this repository added to render.com
 -environment variables added from .env file (DATABASE : MongoDB link)
 -deployed this as web service and get the backend link
 -this backend link is replaced by all localhost link in frontend
 
-# Frontend
+### Frontend
 -replace the localhost link with backend link
 -build file created
 -drag and drop on netlify.com
